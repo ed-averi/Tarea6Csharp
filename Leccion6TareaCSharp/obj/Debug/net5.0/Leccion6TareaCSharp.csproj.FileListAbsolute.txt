@@ -1,0 +1,16 @@
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.csproj.AssemblyReference.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.AssemblyInfoInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.AssemblyInfo.cs
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.csproj.CoreCompileInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.exe
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.deps.json
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.runtimeconfig.json
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.runtimeconfig.dev.json
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\bin\Debug\net5.0\Leccion6TareaCSharp.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\refint\Leccion6TareaCSharp.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\Leccion6TareaCSharp.genruntimeconfig.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\Leccion6TareaCSharp\Leccion6TareaCSharp\obj\Debug\net5.0\ref\Leccion6TareaCSharp.dll
