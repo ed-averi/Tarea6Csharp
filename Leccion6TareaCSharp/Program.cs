@@ -61,7 +61,7 @@ namespace Leccion6TareaCSharp
         {
 
 
-            Console.WriteLine("\n\n------------Serializar Datos Json String-------------------");
+
             string json = JsonSerializer.Serialize(alumnos); 
             Console.WriteLine(json);
         }
@@ -77,7 +77,6 @@ namespace Leccion6TareaCSharp
 
             int cont = 1;
 
-            Console.WriteLine("\n\n------------------Muestra los datos de la lista Alumnos ---------------------");
 
             foreach (Alumno alumno in alumnos)
             {
